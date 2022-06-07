@@ -393,3 +393,4 @@ def create_side_wipe(length=0):
         issue_code(";---------------------------", True)
 
         v.side_wipe_length = 0
+        issue_code("brush")
